@@ -1,9 +1,4 @@
 #Dieseled-UP
 
 This is a small demo on how to use Git and the Git Bash
-with the simple Git commands. 
-<<<<<<< HEAD
-=======
-
-Working on issue 2 making branches in the git bash.
->>>>>>> 7b0fa834ebf23156c148853f900cacb445dfae0b
+with the simple Git commands.
